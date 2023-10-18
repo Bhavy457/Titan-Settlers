@@ -20,9 +20,8 @@ export default function GetStartedSection() {
 			<Link to="/function/">
 				<ActionButton text="Explore" />
 			</Link>
-			<ActionButton text="ChatBot" />
-			<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
-            <script src="https://mediafiles.botpress.cloud/df238044-ba8e-4807-89a2-22d8a997c5d9/webchat/config.js" defer></script>
+
+			
 		</motion.div>
 	);
 }
