@@ -21,17 +21,17 @@ export default function GetStartedSection() {
 				<ActionButton text="Explore" />
 			</Link>
 			function YourComponent() {
-  function redirectToBot() {
-    window.location.href = "https://mediafiles.botpress.cloud/df238044-ba8e-4807-89a2-22d8a997c5d9/webchat/bot.html";
-  }
+  			function redirectToBot() {
+   			 window.location.href = "https://mediafiles.botpress.cloud/df238044-ba8e-4807-89a2-22d8a997c5d9/webchat/bot.html";
+  				}
 
 
-    <div>
-      <button onClick={redirectToBot}>ChatBot</button>
-    </div>
+    			
+      			<button onClick={redirectToBot}>ChatBot</button>
+    			
 
-}
-			export default YourComponent;
+			}
+			
 			
 		</motion.div>
 	);
