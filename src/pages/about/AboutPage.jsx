@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import MainBackground from "../../components/MainBackground";
 import brand from "../../assets/images/brand.png";
 import brandName from "../../assets/images/brand-name.png";
-import asiful from "../../assets/images/team/4.png";
+import asiful from "../../assets/icons/blank.png";
 import akash from "../../assets/images/team/5.png";
 import wahid from "../../assets/images/team/6.png";
 import mithila from "../../assets/images/team/2.png";
@@ -17,7 +17,7 @@ const teamData = [
 	{
 		id: "t-1",
 		name: "Akash Tatti",
-		//src: asiful,
+		src: asiful,
 		designation: "Data Analyst",
 		university: "HKBK College Of Engineering",
 		position: "left-40 top-[90px]",
@@ -25,7 +25,7 @@ const teamData = [
 	{
 		id: "t-2",
 		name: "Akhil Mathew",
-		//src: akash,
+		src: asiful,
 		designation: "Team Leader (Project Manager)",
 		university: "HKBK College Of Engineering",
 		position: "left-1/2 top-20 -translate-x-1/2",
@@ -33,7 +33,7 @@ const teamData = [
 	{
 		id: "t-3",
 		name: "Bhavy Jain",
-		//src: wahid,
+		src: asiful,
 		designation: "Software Architect",
 		university: "HKBK College Of Engineering",
 		position: "right-40 top-[90px]",
@@ -41,7 +41,7 @@ const teamData = [
 	{
 		id: "t-4",
 		name: "Bayas Shivani",
-		//src: mithila,
+		src: asiful,
 		designation: "Researcher",
 		university: "HKBK College Of Engineering",
 		position: "left-40 bottom-20",
@@ -49,15 +49,15 @@ const teamData = [
 	{
 		id: "t-5",
 		name: "Jeevan T",
-		//src: sharif,
+		src: asiful,
 		designation: "Full-Stack developer",
 		university: "HKBK College Of Engineering",
 		position: "left-1/2 bottom-7 -translate-x-1/2",
 	},
 	{
 		id: "t-6",
-		name: "Abhishek S",
-		//src: adrita,
+		name: "Abhishek R",
+		src: asiful,
 		designation: "UX Designer",
 		university: "HKBK College Of Engineering",
 		position: "right-40 bottom-20",
