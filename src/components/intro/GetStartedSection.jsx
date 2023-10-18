@@ -21,8 +21,7 @@ export default function GetStartedSection() {
 				<ActionButton text="Explore" />
 			</Link>
 			
-    			
-      			<button onClick={redirectToBot}>ChatBot</button>
+
     			
 			function YourComponent() {
   			function redirectToBot() {
