@@ -17,7 +17,7 @@ const teamData = [
 	{
 		id: "t-1",
 		name: "Akash Tatti",
-		//src: asiful,
+		src: asiful,
 		designation: "Data Analyst",
 		university: "HKBK College Of Engineering",
 		position: "left-40 top-[90px]",
@@ -25,7 +25,7 @@ const teamData = [
 	{
 		id: "t-2",
 		name: "Akhil Mathew",
-		//src: akash,
+		src: akash,
 		designation: "Team Leader (Project Manager)",
 		university: "HKBK College Of Engineering",
 		position: "left-1/2 top-20 -translate-x-1/2",
@@ -33,7 +33,7 @@ const teamData = [
 	{
 		id: "t-3",
 		name: "Bhavy Jain",
-		//src: wahid,
+		src: wahid,
 		designation: "Software Architect",
 		university: "HKBK College Of Engineering",
 		position: "right-40 top-[90px]",
@@ -41,7 +41,7 @@ const teamData = [
 	{
 		id: "t-4",
 		name: "Bayas Shivani",
-		//src: mithila,
+		src: mithila,
 		designation: "Researcher",
 		university: "HKBK College Of Engineering",
 		position: "left-40 bottom-20",
@@ -49,7 +49,7 @@ const teamData = [
 	{
 		id: "t-5",
 		name: "Jeevan T",
-		//src: sharif,
+		src: sharif,
 		designation: "Full-Stack developer",
 		university: "HKBK College Of Engineering",
 		position: "left-1/2 bottom-7 -translate-x-1/2",
@@ -57,7 +57,7 @@ const teamData = [
 	{
 		id: "t-6",
 		name: "Abhishek S",
-		//src: adrita,
+		src: adrita,
 		designation: "UX Designer",
 		university: "HKBK College Of Engineering",
 		position: "right-40 bottom-20",
