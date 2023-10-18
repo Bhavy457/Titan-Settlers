@@ -2,12 +2,12 @@ import PropTypes from "prop-types";
 import MainBackground from "../../components/MainBackground";
 import brand from "../../assets/images/brand.png";
 import brandName from "../../assets/images/brand-name.png";
-import asiful from "../../assets/images/team/asif.png";
-import akash from "../../assets/images/team/akash.png";
-import wahid from "../../assets/images/team/wahid.png";
-import mithila from "../../assets/images/team/mithila.png";
-import sharif from "../../assets/images/team/sharif.png";
-import adrita from "../../assets/images/team/adrita.png";
+import asiful from "../../assets/images/team/4.png";
+import akash from "../../assets/images/team/5.png";
+import wahid from "../../assets/images/team/6.png";
+import mithila from "../../assets/images/team/2.png";
+import sharif from "../../assets/images/team/3.png";
+import adrita from "../../assets/images/team/1.png";
 import prevIcon from "../../assets/icons/prev.svg"
 import { useNavigate } from "react-router-dom";
 import { useWindow } from './../../hooks/useWindow';
