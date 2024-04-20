@@ -10,13 +10,6 @@
 <img src='./template/images/logo.png' alt='titan-settlers'>
 <hr>
 
-### Our Extraordinary Team
-
----
-
-<img src='./template/images/team.jpg' alt='the-titans'>
-<hr>
-
 ### About Project
 
 ---
@@ -126,9 +119,5 @@ We welcome contributions to this project in the form of code, documentation, or 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-If you have any questions or suggestions, please feel free to reach out to us at
-[shaikotkunduakash@gmail.com](mailto:shaikotkunduakash@gmail.com) or [sharifmdminhazurrahman@gmail.com](mailto:sharifmdminhazurrahman@gmail.com).
 
 Thank you, let's learn together.
